@@ -1,0 +1,28 @@
+[0514/133914.527:INFO:CONSOLE(21172)] "THREE.WebGLRenderer 92", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/build/three.js (21172)
+[0514/133915.336:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/libs/ColladaLoader.js (3660)
+[0514/133915.354:INFO:CONSOLE(255)] "Loaded: file:C:/Users/User/OneDrive/Documentos/tesis/hill climbing/final_revision/3d/policeman.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (255)
+[0514/133915.354:INFO:CONSOLE(271)] "load end: file:C:/Users/User/OneDrive/Documentos/tesis/hill climbing/final_revision/3d/policeman.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (271)
+[0514/134112.478:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0514/134939.126:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0514/134939.132:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0514/134944.148:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0514/134944.148:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0514/134954.165:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0514/134954.165:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0514/135014.183:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0514/135014.185:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0516/114157.204:INFO:CONSOLE(21172)] "THREE.WebGLRenderer 92", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/build/three.js (21172)
+[0516/114158.051:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/libs/ColladaLoader.js (3660)
+[0516/114158.067:INFO:CONSOLE(255)] "Loaded: file:C:/Users/User/OneDrive/Documentos/tesis/GHS/final_revision/3d/policeman.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (255)
+[0516/114158.068:INFO:CONSOLE(271)] "load end: file:C:/Users/User/OneDrive/Documentos/tesis/GHS/final_revision/3d/policeman.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503101134/static/init.js (271)
+[0516/114307.026:ERROR:gpu_process_host.cc(952)] GPU process exited unexpectedly: exit_code=1073807364
+[0516/114307.026:WARNING:gpu_process_host.cc(1302)] The GPU process has crashed 1 time(s)
+[0516/114307.029:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+[0516/114307.068:ERROR:gpu_process_host.cc(952)] GPU process exited unexpectedly: exit_code=-1073741205
+[0516/114307.069:WARNING:gpu_process_host.cc(1302)] The GPU process has crashed 2 time(s)
+[0516/114307.073:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+[0611/162015.722:INFO:CONSOLE(21172)] "THREE.WebGLRenderer 92", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503030442/static/build/three.js (21172)
+[0611/162016.399:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503030442/static/libs/ColladaLoader.js (3660)
+[0611/162016.424:INFO:CONSOLE(255)] "Loaded: file:C:/Users/Hewlett Packard/Documents/tesis/PSO/final_revision/3d/policeman.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503030442/static/init.js (255)
+[0611/162016.424:INFO:CONSOLE(271)] "load end: file:C:/Users/Hewlett Packard/Documents/tesis/PSO/final_revision/3d/policeman.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503030442/static/init.js (271)
+[0611/162213.042:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 

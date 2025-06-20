@@ -1,0 +1,5 @@
+[0620/150329.783:INFO:CONSOLE(21172)] "THREE.WebGLRenderer 92", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503030442/static/build/three.js (21172)
+[0620/150330.594:INFO:CONSOLE(3660)] "THREE.ColladaLoader: File version 1.4.0", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503030442/static/libs/ColladaLoader.js (3660)
+[0620/150330.621:INFO:CONSOLE(255)] "Loaded: file:C:/Users/Hewlett Packard/Documents/tesis/SA/final_revision/3d/policeman.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503030442/static/init.js (255)
+[0620/150330.621:INFO:CONSOLE(271)] "load end: file:C:/Users/Hewlett Packard/Documents/tesis/SA/final_revision/3d/policeman.dae", source: file:///C:/Program%20Files/AnyLogic%208.9%20Personal%20Learning%20Edition/plugins/com.anylogic.graphics3d_8.9.4.202503030442/static/init.js (271)
+[0620/150528.560:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
