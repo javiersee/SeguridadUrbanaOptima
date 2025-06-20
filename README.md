@@ -45,5 +45,33 @@ Entre las mejoras y extensiones propuestas se incluyen:
 - Evaluación de estrategias híbridas o combinadas entre algoritmos.  
 
 ---
+---
+
+
+## 📁 Estructura del Repositorio
+
+A continuación, se describen las carpetas incluidas en este repositorio:
+
+- **`datos/`**  
+  Contiene los archivos Excel con los delitos clasificados por semestre y la lista de CAI que deben cargarse en cada algoritmo, con su correspondiente tiempo de atención.
+
+- **`GHS/`**  
+  Implementación del algoritmo metaheurístico **Global Harmony Search** (GHS).
+
+- **`hill climbing/`**  
+  Implementación del algoritmo **Hill Climbing**.
+
+- **`PSO/`**  
+  Implementación del algoritmo **Particle Swarm Optimization** (PSO).
+
+- **`SA/`**  
+  Implementación del algoritmo **Simulated Annealing** (SA).
+
+- **`movimiento2/`**  
+  Contiene el módulo visual que carga el archivo `.txt` generado por cada algoritmo y simula el movimiento de las patrullas en la ciudad de Bucaramanga.
+
+Cada algoritmo, al finalizar su ejecución, genera un archivo `.txt` que contiene el cromosoma final y su valor de fitness. Este archivo es cargado por el módulo movimiento2 de simulación para representar visualmente los desplazamientos optimizados de las patrullas.
+
+
 
 > Desarrollado como trabajo de grado en Ingeniería de Sistemas – Universidad del Cauca.
